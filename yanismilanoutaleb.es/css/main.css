@@ -1,0 +1,43 @@
+.dates {
+    color: rgb(147, 51, 211);
+}
+
+.links.products {
+    color: rgb(87, 243, 9);
+}
+
+.h1 {
+    background-image: url(./imgbackgrounds/BurningOrange.png);
+    /*
+     image background
+    */
+}
+
+.main {
+    background-color: rgb(59, 49, 49);
+}
+
+.btn.btn-black {
+    font-size: 10px 30px 140px;
+    background-image: url(./imgbackgrounds/istockphoto-175413535-612x612.jpg);
+}
+
+.btn.btn-warning {
+    font-size: 10px 30px 140px;
+    background-image: url(./imgbackgrounds/istockphoto-416242533-612x612.jpeg);
+}
+
+.btn.btn-orange {
+    font-size: 10px 30px 140px;
+    background-image: url(./imgbackgrounds/istockphoto-413332444673-612x612.jpeg);
+}
+
+.btn.btn-blue {
+    font-size: 10px 30px 140px;
+    background-image: url(./imgbackgrounds/istockphoto-134424442324233423344-612x612.jpeg);
+}
+
+.btn.btn-rainbow {
+    font-size: 10px 30px 140px;
+    background-image: url(./imgbackgrounds/istockphoto-927338742364235627-612x612.jpeg);
+}
